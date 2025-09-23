@@ -1,85 +1,83 @@
-# Online Plant Shop
+# Boutique de Plantes en Ligne
 
-Welcome to the **Online Plant Shop** project! This application allows users to browse and purchase a variety of plants. It is built with React and offers a simple and intuitive interface.
+Bienvenue dans le projet **Boutique de Plantes en Ligne** !  
+Cette application permet aux utilisateurs de parcourir et d’acheter une variété de plantes. Elle est construite avec **React** et propose une interface simple et intuitive.
 
-## Features
+## Fonctionnalités
 
-- **Display Plant Details**: Details of each plant are shown upfront, allowing users to have an immediate overview.
-- **Add to Cart**: Users can add plants to their cart.
-- **Empty Cart**: Ability to empty the cart at any time.
-- **Filtering**: Users can filter plants by categories (indoor, outdoor, succulents, etc.).
-- **Responsive Design**: The application is optimized for use on computers, mobiles, and tablets.
+- **Afficher les détails des plantes** : Les détails de chaque plante sont affichés directement, permettant aux utilisateurs d’avoir un aperçu immédiat.  
+- **Ajouter au panier** : Les utilisateurs peuvent ajouter des plantes à leur panier.  
+- **Vider le panier** : Possibilité de vider le panier à tout moment.  
+- **Filtrage** : Les utilisateurs peuvent filtrer les plantes par catégorie (intérieur, extérieur, succulentes, etc.).  
+- **Design réactif** : L’application est optimisée pour une utilisation sur ordinateurs, mobiles et tablettes.
 
-## Technologies Used
+## Technologies utilisées
 
-- **React**: For building the user interface.
-- **React Router**: For navigation management (if necessary).
-- **Redux**: For state management (optional).
-- **CSS Modules / Styled Components**: For styling and layout.
-- **Axios**: For API calls.
-- **Mock API**: For demo data (you can use services like [JSONPlaceholder](https://jsonplaceholder.typicode.com/) or [MockAPI](https://mockapi.io/)).
+- **React** : Pour la création de l’interface utilisateur.  
+- **React Router** : Pour la gestion de la navigation (si nécessaire).  
+- **Redux** : Pour la gestion de l’état (optionnel).  
+- **CSS Modules / Styled Components** : Pour le style et la mise en page.  
+- **Axios** : Pour les appels API.  
+- **API factice** : Pour les données de démonstration (vous pouvez utiliser des services comme [JSONPlaceholder](https://jsonplaceholder.typicode.com/) ou [MockAPI](https://mockapi.io/)).
 
 ## Installation
 
-1. Clone the repository:
+1. Clonez le dépôt :
+
+1. Clonez le dépôt :
 
    ```bash
    git clone https://github.com/your-username/online-plant-shop.git
    ```
 
-2. Navigate to the project folder:
+2. Accédez au dossier du projet :
 
    ```bash
    cd online-plant-shop
    ```
 
-3. Install the dependencies:
+3. Installez les dépendances :
 
    ```bash
    npm install
    ```
 
-4. Start the development server:
+4. Lancez le serveur de développement :
 
    ```bash
    npm start
    ```
 
-   The application will be available at `http://localhost:3000`.
+  L’application sera accessible à l’adresse`http://localhost:3000`.
 
-## Usage
+## Utilisation
 
-- Once the application is launched, the plants will be displayed with their details.
-- Click the add button to add a plant to your cart.
-- Use the filtering options to explore plants by category.
-- Empty your cart at any time if you wish.
+- Une fois l’application lancée, les plantes seront affichées avec leurs détails.  
+- Cliquez sur le bouton **Ajouter** pour ajouter une plante à votre panier.  
+- Utilisez les options de filtrage pour explorer les plantes par catégorie.  
+- Videz votre panier à tout moment si vous le souhaitez.
 
-## Demo Video
+## Vidéo Démo
 
 <div align="center">
 <img src="Screenshots/demo.gif" alt="" width="500">
 </div>
 
-## Contributing
+## Contribution
 
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
 
-1. Fork the project.
-2. Create a new branch (`git checkout -b feature/new-feature`).
-3. Make your changes and commit (`git commit -am 'Add a new feature'`).
-4. Push the branch (`git push origin feature/new-feature`).
-5. Create a new Pull Request.
+1. Forkez le projet.  
+2. Créez une nouvelle branche (`git checkout -b feature/nouvelle-fonctionnalité`).  
+3. Apportez vos modifications et effectuez un commit (`git commit -am 'Ajout d’une nouvelle fonctionnalité'`).  
+4. Poussez la branche (`git push origin feature/nouvelle-fonctionnalité`).  
+5. Créez une **Pull Request**.
 
-## License
+## Licence
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Ce projet est sous licence **MIT**. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
-## Acknowledgments
+## Remerciements
 
-- Thank you to all the online resources that helped build this project.
-- Inspiration for this project was drawn from various online plant shops.
-
-
-
-Feel free to make any adjustments or let me know if you need further modifications!
-
+- Merci à toutes les ressources en ligne qui ont aidé à construire ce projet.  
+- L’inspiration pour ce projet provient de différentes boutiques de plantes en ligne.
